@@ -1,0 +1,7 @@
+2023-07-03 03:07:21.255 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-03 03:07:21.255 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-03 03:07:21.329 [info] Test server listening.
+2023-07-03 03:07:21.363 [info] > conda info --json
+2023-07-03 03:07:22.345 [info] > ~\AppData\Local\Microsoft\WindowsApps\python3.11.exe -I ~\.vscode\extensions\ms-python.python-2023.10.1\pythonFiles\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2023.10.1\pythonFiles\interpreterInfo.py
+2023-07-03 03:07:22.957 [info] Python interpreter path: ~\AppData\Local\Microsoft\WindowsApps\python3.11.exe
+2023-07-03 03:07:23.750 [info] Starting Pylance language server.
